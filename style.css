@@ -1,0 +1,20 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  color: rgb(194, 56, 212);
+}
+
+figure {
+  max-width: 700px;
+  background-color: #eee;
+  box-shadow: 1px 1px 7px rgb(211, 70, 136);
+  margin: 15px 0;
+  padding: 5px;
+  border: 1px solid #777;
+}
